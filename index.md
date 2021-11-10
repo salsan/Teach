@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Teach
 
-You can use the [editor on GitHub](https://github.com/salsan/Teach/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Teach is a basic scenes theme for [OBS Studio](https://obsproject.com/)  for teach Chess online with [Lichess.org](https://lichess.org/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+My brother [Alessandro](https://lichess.org/coach/newbie87), responsible for the project ["Sicilia Scacchi Online"](http://www.siciliascacchi.it/site/presidenza/__trashed-3), asked me how to stream with the same graphics and in a "simple" way for different teacher with different hardware on twitch.
+Just for fun, I developed this project, and I choice Lichess for Chessboard for easy method to share it ( [Lichess Study](https://lichess.org/study) ),I was looking for a software that would allow to export full scenes theme, I have not found anything , the finally choice point to OBS Studio, for resolve this issue, I wrote a Nodejs script for export/import/extract/add scene with relative files  this program is ["OBS Themes Utility"](https://github.com/salsan/otu).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Features
 
-# Header 1
-## Header 2
-### Header 3
+## ⭕ Main - Webcam and Chessboard.
 
-- Bulleted
-- List
+![immagine](https://user-images.githubusercontent.com/111319/141142022-78c7df69-6e98-4723-a83d-eec7b52de646.png)
 
-1. Numbered
-2. List
+### 🪛 Required Config
+- [⚙️ Widget -  Camera Speaker [1]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget----Camera-Speaker)
+- [⚙️ Widget -  Chessboard Study  [2]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget---Chessboard-Study)
 
-**Bold** and _Italic_ and `Code` text
+## 🖥️ Display - Webcam and Computer Monitor.
 
-[Link](url) and ![Image](src)
-```
+![immagine](https://user-images.githubusercontent.com/111319/141142977-87940dd3-0b3f-44bb-9f4d-deae6e020654.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 🪛 Required Config
+- [⚙️ Widget -  Camera Speaker [1]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget----Camera-Speaker)
+- [⚙️ Widget - Display  [2]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget---Display)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salsan/Teach/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📰 Slide - Webcam and Slide
 
-### Support or Contact
+![immagine](https://user-images.githubusercontent.com/111319/141144339-0c7aae87-4b8d-4f63-94cb-1be7613106c0.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 🪛 Required Config
+- [⚙️ Widget -  Camera Speaker [1]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget----Camera-Speaker)
+- [⚙️ Widget -  Slide  [2]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget----Slide#slide)
+
+## 📹 Webcam
+
+![immagine](https://user-images.githubusercontent.com/111319/141145363-246e4ad2-112a-4197-b717-28dec78846d2.png)
+
+### 🪛 Required Config
+- [⚙️ Widget -  Camera Speaker [1]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget----Camera-Speaker)
+
+
+## 🎶 Intro
+
+![immagine](https://user-images.githubusercontent.com/111319/141145827-2f42d94c-0944-4d52-8794-c147c252e583.png)
+
+### 🪛 Required Config
+- [⚙️ Widget - Intro [1]](https://github.com/salsan/Teach/wiki/%E2%9A%99%EF%B8%8F-Widget---Intro)
+
+
+### Feedback and Bug
+
+Use the [issues page](https://github.com/salsan/Teach/issues) for your request
